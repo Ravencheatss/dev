@@ -1,10 +1,10 @@
 {
-	"servers": "http://62.217.176.48/api/Requests/Servers.php?edgar=1829top09",
-	"stories": "http://62.217.176.48/api/Requests/Stories.php?edgar=1829top09",
-	"faq": "http://62.217.176.48/api/Requests/Faq.php?edgar=1829top09",
-	"createCharacter": "http://62.217.176.48/api/Requests/CreateCharacter.php?edgar=1829top09",
-    "verifyAuth": "http://62.217.176.48/api/Requests/VerifyAuth.php?edgar=1829top09",
-    "accountDetails": "http://62.217.176.48/api/Requests/AccountDetails.php?edgar=1829top09",
-    "isAcc": "http://62.217.176.48/api/Requests/IsAcc.php?edgar=1829top09",
-    "skinsCDN": "http://62.217.176.48/api/images/skin_"
+	"servers": "http://62.217.176.48/forgg/api/Requests/Servers.php?edgar=1829top09",
+	"stories": "http://62.217.176.48/forgg/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "http://62.217.176.48/forgg/api/Requests/Faq.php?edgar=1829top09",
+	"createCharacter": "http://62.217.176.48/forgg/api/Requests/CreateCharacter.php?edgar=1829top09",
+    "verifyAuth": "http://62.217.176.48/forgg/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "http://62.217.176.48/forgg/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "http://62.217.176.48/forgg/api/Requests/IsAcc.php?edgar=1829top09",
+    "skinsCDN": "http://62.217.176.48/forgg/api/images/skin_"
 }
